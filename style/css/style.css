@@ -1,0 +1,26 @@
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background: #fff;
+}
+.error{
+    color:red
+}
+.item-comentario{
+    border: solid 1px #CCC;
+    margin-top: 10px;
+    padding: 10px;
+}
+.rodape{
+    background: #CCC;
+    padding: 5px;
+    text-align: center;
+    margin-top: 10px;    
+    height: 45px;
+}
+.texto{
+    margin-top:50px;
+}
+.pagina{
+    min-height: 700px;
+}
