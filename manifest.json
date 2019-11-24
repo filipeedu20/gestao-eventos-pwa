@@ -1,0 +1,22 @@
+{
+    "dir": "ltr",
+    "lang": "pt",
+    "name": "Filipe Eduardo",
+    "scope": "/",
+    "display": "browser",
+    "start_url": "http://projetos/",
+    "short_name": "Conservadora Pr",
+    "theme_color": "#343A40",
+    "description": "PWA Sistema de Gerenciamento de eventos",
+    "orientation": "any",
+    "background_color": "#343A40",
+    "related_applications": [],
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "/images/images/assets/img_site/favicon.ico",
+            "sizes": "16x16 32x32"
+        }
+    ],
+    "screenshots": []
+}
